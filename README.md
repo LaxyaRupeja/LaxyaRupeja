@@ -14,12 +14,11 @@
  
 - 😎 I'm currently learning Backend development 
 
-- 💬 😉
-
 - 😄 Pronouns: He/Him
 
 - ⚡ Coding fact: "The first computer bug was a literal bug. In 1947, a moth caused a malfunction in the Harvard Mark II computer, leading to the term 'debugging' for fixing software issues".
 
+- 🤩 <a href="https://LaxyaRupeja.github.io">Portfolio</a>
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
